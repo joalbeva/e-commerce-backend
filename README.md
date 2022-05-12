@@ -70,34 +70,3 @@ The server is running, now you can make requests to it through your desired meth
 *  - [Sequelize](https://www.npmjs.com/package/sequelize)
 *  - [Express.js](https://www.npmjs.com/package/express)
 * [**Visual Studio Code**](https://code.visualstudio.com/)
-
----
-
-## **Demonstration Video**
-If you'd like to see a full demo of the application, please visit the following link: [Demo Video on Google Drive](https://drive.google.com/file/d/1gdSIFayRsXjm4BekD5eJcBi1v77JLgIB/view?usp=sharing)
-
----
-
-## **Contributing**
-
-1.  Fork it!
-2.  Create your feature branch: `git checkout -b my-new-feature`
-3.  Add your changes: `git add .`
-4.  Commit your changes: `git commit -am 'Add some feature'`
-5.  Push to the branch: `git push origin my-new-feature`
-6.  Submit a pull request :sunglasses:
-
----
-
-## **Author**
-**Luke Poirrier**   
-LinkedIn: [@luke-poirrier](https://www.linkedin.com/in/luke-poirrier)  
-Email: [Luke@LukePoirrier.com](mailto:Luke@LukePoirrier.com)  
-Portfolio: [LukePoirrier.com](http://lukepoirrier.com)  
-
----
-
-## **License**
-This application is licensed under the MIT License, you can find the full license information [here](http://github.com/lukecp5/employee-tracker/LICENSE.txt)
-
----
