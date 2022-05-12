@@ -1,0 +1,28 @@
+{
+  "name": "ecommercebackend",
+  "version": "1.0.0",
+  "description": "homeworkfrombootcamp",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joalbeva/e-commerce-backend.git"
+  },
+  "keywords": [
+    "199120132022"
+  ],
+  "author": "JorgeBernal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joalbeva/e-commerce-backend/issues"
+  },
+  "homepage": "https://github.com/joalbeva/e-commerce-backend#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "employee-tracker": "^1.0.3",
+    "node": "^17.7.2"
+  }
+}
